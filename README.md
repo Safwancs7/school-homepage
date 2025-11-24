@@ -16,4 +16,4 @@ for a community school homepage using CSS.
 - CSS3
 
 ## Live Link
-(Add your GitHub Pages link here)
+(https://safwancs7.github.io/school-homepage/)
